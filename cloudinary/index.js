@@ -20,8 +20,3 @@ module.exports = {
     cloudinary,
     storage
 }
-
-//5xRRSmQSGxhoJAa9-pass
-//MHas2UHucLEd9vqU
-
-//mongodb+srv://admin:<password>@cluster0.s8tzvfe.mongodb.net/?retryWrites=true&w=majority
